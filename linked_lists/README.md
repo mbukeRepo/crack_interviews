@@ -1,6 +1,6 @@
 <h2>linked lists</h2>
 
-<h3>Reversing a singly linked list</h3>
+<h3>1. Reversing a singly linked list</h3>
 
 <div><p>Given the <code>head</code> of a singly linked list, reverse the list, and return <em>the reversed list</em>.</p>
 
@@ -19,7 +19,7 @@
 <br>
 <div> The implementation is <a href="./reverse_singly_list.js" target="_brank" >here</a></div>
 
-<h3>Reversing a certain interval in a linked list</h3>
+<h3>2. Reversing a certain interval in a linked list</h3>
 
 <div><p>Given the <code>head</code> of a singly linked list and two integers <code>left</code> and <code>right</code> where <code>left &lt;= right</code>, reverse the nodes of the list from position <code>left</code> to position <code>right</code>, and return <em>the reversed list</em>.</p>
 
@@ -31,3 +31,6 @@
 </pre>
 
 <div><p> The implementation is <a href="./mn_reversal.js" target="_brank">here</a></p></div>
+
+
+<h3>3. </h3>
