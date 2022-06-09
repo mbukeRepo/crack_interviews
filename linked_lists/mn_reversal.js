@@ -1,6 +1,12 @@
-// reverses the linked list given m-n interval
+// @desc: reverses the linked list given m-n interval
 // space: O(1)
 // time: O(n)
+// @params: 
+//    head: pointer to the head pointer
+//    m: left position
+//    n: right position
+// @returns: the head of the new list
+
 const mnReversal = (head, m, n) => {
   let start = head, currNode = head, currPos = 1, newList = null, tail = null;
   while (currPos < m) {

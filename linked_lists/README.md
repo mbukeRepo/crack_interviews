@@ -17,7 +17,7 @@
 <strong>Output:</strong> [2,1]
 </pre>
 <br>
-<div> The implementation is <a href="./reverse_singly_list.js" target="_brank" >here</a></div>
+<div> The implementation is <a href="./reverse_singly_list.js" target="_blank" >here</a></div>
 
 <h3>2. Reversing a certain interval in a linked list</h3>
 
@@ -30,7 +30,7 @@
 <strong>Output:</strong> [1,4,3,2,5]
 </pre>
 
-<div><p> The implementation is <a href="./mn_reversal.js" target="_brank">here</a></p></div>
+<div><p> The implementation is <a href="./mn_reversal.js" target="_blank">here</a></p></div>
 
 
 <h3>3. </h3>

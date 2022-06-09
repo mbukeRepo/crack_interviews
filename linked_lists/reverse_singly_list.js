@@ -1,5 +1,7 @@
-// returns : new head
 // @desc: reverses the linked list given head pointer
+// @params: 
+//    head: pointer to the head node
+// returns : new head
 
 const reverse = (head) => {
   let curr = head;
