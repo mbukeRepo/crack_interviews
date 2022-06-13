@@ -96,4 +96,5 @@ After flattening the multilevel linked list it becomes:
 
 <pre>[1,2,3,4,5,6,null,null,null,7,8,9,10,null,null,11,12]
 </pre>
-</div></div>
+<div> The implementation is <a href="./flatten_doubly_list.js" target="_blank" >here</a></div>
+
