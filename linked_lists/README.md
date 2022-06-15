@@ -87,3 +87,4 @@ After flattening the multilevel linked list it becomes:
 <strong>Output:</strong> no cycle
 <strong>Explanation:</strong> There is no cycle in the linked list.
 </pre>
+<div><p>The implementation is <a href="./cycle_detection.js">here</a></p></div>
