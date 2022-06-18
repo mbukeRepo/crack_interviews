@@ -29,3 +29,4 @@
 <pre><strong>Input:</strong> s = "(]"
 <strong>Output:</strong> false
 </pre>
+<p>The implementation are <a href="./validParentheses.js">here</a></p>
