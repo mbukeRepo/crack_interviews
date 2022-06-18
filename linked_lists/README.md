@@ -1,6 +1,6 @@
 <h2>linked lists</h2>
 
-<h3>1. Reversing a singly linked list</h3>
+<h3>1. Reversing a singly linked list </h3>
 
 <div><p>Given the <code>head</code> of a singly linked list, reverse the list, and return <em>the reversed list</em>.</p>
 
