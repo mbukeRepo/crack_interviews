@@ -1,7 +1,7 @@
 const isValid =  require("./validParentheses");
 
 const s = "[](){}";
-const s2 = "[](";
+const s2 = "[](){";
 const s3 = "[({})]";
 
 console.log(isValid(s));
