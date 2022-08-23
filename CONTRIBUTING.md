@@ -1,7 +1,7 @@
 <h2>Contributing to alx_crack_interviews</h2>
 
 <p>You can contribute to this open source project through:</p>
-<ul>
+<ul type="none">
     <li>Adding more interview questions and their solutions</li>
     <li>Editing some content on this project</li>
     <li>Opening issues on somethings that can be changed</li>
@@ -19,13 +19,13 @@
     </li>
     <li>
       <p>
-        &#9989; Add description of the interview question at the end of README.md of that repository. You must following template:
+        &#9989; Add description of the interview question at the end of README.md of that repository. You must follow this template:
       </p> 
       <pre>
            &#60;div&#62;
                &#60;h3 id="similar_to_title"&#62;Your title&#60;/h3&#62;
                <!-- Then add more description -->
-               &#60;div&#62; The implementation is &#60;a href="./link-to-solution-file" target="_blank" &#62;here&#60;/a&#62;&#60;/div&#62;
+               &#60;div&#62; The implementation is &#60;a href="./name-of-solution-file" target="_blank" &#62;here&#60;/a&#62;&#60;/div&#62;
            &#60;/div&#62;
       </pre>
       <p>
@@ -51,7 +51,6 @@
             <b>Warning: </b> In the link you must use the <b>ID</b>(similar_to_title) that you used in the Description
              of your interview question.
         </p>
-
     </li>
 
 </ul>
