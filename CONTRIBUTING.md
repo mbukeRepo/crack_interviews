@@ -21,7 +21,7 @@
       <p>
         2. Add description of the interview question at the end of README.md of that repository. You must following template:
         <br>
-        ```
+        ```html
            <div>
                <h3 id="similar_to_title">Your title</h3>
                <!-- Then add more description -->
@@ -38,7 +38,7 @@
             adding a new <b>li</b> under certain <i>datastructure</i> with link to the dedicated description. You
             can follow this example.
             <br>
-            ```
+            ```html
             <li>
                 <a href="./linked_lists">Linked Lists</a>
                 <ul>
