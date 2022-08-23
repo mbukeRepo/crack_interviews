@@ -30,13 +30,15 @@
       <p>
         2. Add description of the interview question at the end of README.md of that repository. You must following template:
       </p>
-       ```
+
+       ```html
            <div>
                <h3 id="similar_to_title">Your title</h3>
                <!-- Then add more description -->
                <div> The implementation is <a href="./<link to solution file>" target="_blank" >here</a></div>
            </div>
       ```
+
       <p>
         <b>Warning: </b> <b>similar_to_title</b> id will be used in <i>root</i> README during linking and they must be similar.
       </p>
