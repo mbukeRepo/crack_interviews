@@ -13,13 +13,13 @@
     steps so that you contribution can be accepted.
 </p>
 
-<ul type="\2705">
+<ul type="none">
     <li>
-        1. Place your code(file containing solution) in the dedicated folder(associated datastructure).
+        &#9989; Place your code(file containing solution) in the dedicated folder(associated datastructure).
     </li>
     <li>
       <p>
-        2. Add description of the interview question at the end of README.md of that repository. You must following template:
+        &#9989; Add description of the interview question at the end of README.md of that repository. You must following template:
       </p> 
       <pre>
            &#60;div&#62;
@@ -35,20 +35,20 @@
     </li>
     <li>
         <p>
-            3. Add link to your interview question in the <b>root</b> <i>README.md</i>. You can do this by
+            &#9989; Add link to your interview question in the <b>root</b> <i>README.md</i>. You can do this by
             adding a new <b>li</b> under certain <i>datastructure</i> with link to the dedicated description. You
             can follow this example.
-            <br>
-            ```
-            <li>
-                <a href="./linked_lists">Linked Lists</a>
-                <ul>
-                    <li><a href="./linked_lists#reversing_linked_list">Reversing a singly linked list</a></li>
-                    <li><a href="./linked_lists#<similar_to_title>">Your Title</a></li>
-                </ul>
-            </li>
-            ```
-            <br>
+        </p>
+        <pre>
+            &#60;li&#62;
+                &#60;a href="./linked_lists"&#62;Linked Lists&#60;/a&#62;
+                &#60;ul&#62;
+                    &#60;li&#62;&#60;a href="./linked_lists#reversing_linked_list"&#62;Reversing a singly linked list&#60;/a&#62;&#60;/li&#62;
+                    &#60;li&#62;&#60;a href="./linked_lists#similar_to_title"&#62;Your Title&#60;/a&#62;&#60;/li&#62;
+                &#60;/ul&#62;
+            &#60;/li&#62;
+        </pre>
+        <p>
             <b>Warning: </b> In the link you must use the <b>ID</b>(similar_to_title) that you used in the Description
              of your interview question.
         </p>
