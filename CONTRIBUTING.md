@@ -28,7 +28,6 @@
                &#60;div&#62; The implementation is &#60;a href="./link-to-solution-file" target="_blank" &#62;here&#60;/a&#62;&#60;/div&#62;
            &#60;/div&#62;
       </pre>
-
       <p>
         <b>Warning: </b> <b>similar_to_title</b> id will be used in <i>root</i> README during linking and they must be similar.
       </p>
