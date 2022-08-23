@@ -1,3 +1,12 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    
 <h2>Contributing to alx_crack_interviews</h2>
 
 <p>You can contribute to this open source project through:</p>
@@ -20,17 +29,15 @@
     <li>
       <p>
         2. Add description of the interview question at the end of README.md of that repository. You must following template:
-        <br>
-
-        ```html
+      </p>
+       ```
            <div>
                <h3 id="similar_to_title">Your title</h3>
                <!-- Then add more description -->
                <div> The implementation is <a href="./<link to solution file>" target="_blank" >here</a></div>
            </div>
-        ```
-
-        <br>
+      ```
+      <p>
         <b>Warning: </b> <b>similar_to_title</b> id will be used in <i>root</i> README during linking and they must be similar.
       </p>
     </li>
@@ -40,8 +47,7 @@
             adding a new <b>li</b> under certain <i>datastructure</i> with link to the dedicated description. You
             can follow this example.
             <br>
-
-            ```html
+            ```
             <li>
                 <a href="./linked_lists">Linked Lists</a>
                 <ul>
@@ -50,7 +56,6 @@
                 </ul>
             </li>
             ```
-
             <br>
             <b>Warning: </b> In the link you must use the <b>ID</b>(similar_to_title) that you used in the Description
              of your interview question.
@@ -59,3 +64,5 @@
     </li>
 
 </ul>
+</body>
+</html>
