@@ -1,4 +1,6 @@
-<h1 align="center">Crack Interview Questions</h1>
+<h1 align="center">
+    Crack Interview Questions  <span style='font-size:100px;'>&#128170;</span>
+</h1>
 <p>This repository contains solution and description of 
 some of the mostly asked questions.</p>
 
