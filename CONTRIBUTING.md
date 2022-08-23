@@ -1,12 +1,3 @@
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-</head>
-<body>
-    
 <h2>Contributing to alx_crack_interviews</h2>
 
 <p>You can contribute to this open source project through:</p>
@@ -22,7 +13,7 @@
     steps so that you contribution can be accepted.
 </p>
 
-<ul >
+<ul type="\2705">
     <li>
         1. Place your code(file containing solution) in the dedicated folder(associated datastructure).
     </li>
@@ -65,5 +56,3 @@
     </li>
 
 </ul>
-</body>
-</html>
