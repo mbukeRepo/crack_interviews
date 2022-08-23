@@ -31,13 +31,11 @@
         2. Add description of the interview question at the end of README.md of that repository. You must following template:
       </p> 
       <pre>
-       ```html
            &#60;div&#62;
                &#60;h3 id="similar_to_title"&#62;Your title&#60;/h3&#62;
                <!-- Then add more description -->
                &#60;div&#62; The implementation is &#60;a href="./link-to-solution-file" target="_blank" &#62;here&#60;/a&#62;&#60;/div&#62;
            &#60;/div&#62;
-      ```
       </pre>
 
       <p>
