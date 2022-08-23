@@ -1,0 +1,25 @@
+def: 
+  collection of nodes that may or may not be connected to one another.
+
+  every node is called a vertex
+  and connections are called edges
+
+  Graphs are made up of edges and vertices.
+
+Types:
+
+  connected graphs: you can reach any node.
+
+  disconnected graphs: when there exist nodes that cant be reached.
+  ex: locations and transportation routes
+
+  directed and undirected graphs
+  ex: flights(directed), friendship on facebook(undirected)
+
+  cyclic and acyclic graphs
+  cyclic: you have three or more nodes that go through an infinite loop.
+
+breadth first search **
+space : O(v + E)
+time : O(v + E)
+
