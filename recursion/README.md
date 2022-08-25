@@ -1,6 +1,6 @@
 # Recursion
 
-<h3>Return the n-th value of a Fibonacci sequence recursively</h3>
+<h3>1. Return the n-th value of a Fibonacci sequence recursively</h3>
 
 <div><p>Let’s look at the diagram that will help you understand what’s going on here with the rest of our code. Function fib is called with argument 5:</p>
 <p>&nbsp;</p>
