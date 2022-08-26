@@ -27,4 +27,11 @@ some of the mostly asked questions.</p>
             <li><a href="./linked_lists#cycle_detection">Cycle Detection</a></li>
         </ul>
     </li>
+
+                <li>
+                <a href="./arrays">Famous Algorithms</a>
+                <ul>
+                    <li><a href="./arrays#tenMinutesWalk">Take a Ten Minutes Walk</a></li>
+                </ul>
+            </li>
 </ul>
