@@ -7,12 +7,10 @@
 > Note: you will always receive a valid array containing a random assortment of direction letters `('n', 's', 'e', 'w')`. It will never give you an empty array (that's not a walk, that's standing still!).
 <p>Example 1:</p>
 <pre>
-  <strong>Input:</strong>
-  "['n','s','n','s','n','s','n','s','n','s']"
-  <strong>Output:</strong>
-  "true"
-  <strong>Explanation:</strong>
-  "you don't want to be early or late! means dx == 0 and dy == 0 since they are the ones which measure the time. dt must equal to 10"
+  <strong>Input:</strong> ['n','s','n','s','n','s','n','s','n','s']
+  <strong>Output:</strong> true
+  <strong>Explanation:</strong> you don't want to be early or late! means 
+  dx == 0 and dy == 0 since they are the ones which measure the time. dt must equal to 10
 </pre>
     <div> The implementation is <a href="./tenMinutesWalk" target="_blank" >here</a></div>
 </div>
