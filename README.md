@@ -13,6 +13,12 @@ some of the mostly asked questions.</p>
         </ul>
     </li>
     <li>
+        <a href="./recursion">Recursion</a>
+        <ul>
+            <li><a href="./recursion">Valid Parentheses</a></li>
+        </ul>
+    </li>
+    <li>
         <a href="./linked_lists">Linked Lists</a>
         <ul>
             <li><a href="./linked_lists#reversing_linked_list">Reversing a singly linked list</a></li>
