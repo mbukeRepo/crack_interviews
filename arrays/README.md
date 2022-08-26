@@ -25,5 +25,5 @@
   <strong>Input:</strong> ['n','n','n','s','n','s','n','s','n','s']
   <strong>Output:</strong> false
 </pre>
-    <div> The implementation is <a href="./tenMinutesWalk" target="_blank" >here</a></div>
+    <div> The implementation is <a href="./tenMinutesWalk.js" target="_blank" >here</a></div>
 </div>
