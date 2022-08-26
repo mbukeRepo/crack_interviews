@@ -15,7 +15,7 @@ some of the mostly asked questions.</p>
     <li>
         <a href="./recursion">Recursion</a>
         <ul>
-            <li><a href="./recursion">Valid Parentheses</a></li>
+            <li><a href="./recursion">Fibonacci sequence</a></li>
         </ul>
     </li>
     <li>
