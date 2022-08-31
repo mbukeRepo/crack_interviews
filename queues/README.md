@@ -1,7 +1,8 @@
 <h2>Queues</h2>
 
 <div>
-<h4>Implement Queue using Stacks</h4>
+<h4>1.Implement Queue using Stacks</h4>
+
 <p>Implement a first in first out (FIFO) queue using only two stacks. The implemented queue should support all the functions of a normal queue (<code>push</code>, <code>peek</code>, <code>pop</code>, and <code>empty</code>).</p>
 <p>Implement the <code>MyQueue</code> class:</p>
 <ul>
