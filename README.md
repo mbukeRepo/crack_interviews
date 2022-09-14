@@ -1,36 +1,21 @@
-<h1 align="center">
-    Crack Interview Questions  <span style='font-size:100px;'>&#128170;</span>
-</h1>
-<p>This repository contains solution and description of 
-some of the mostly asked questions.</p>
+# <center>Crack Interview Questions &#128170;</center>
 
-<ul>
-    <li>
-        <a href="./stacks">Stacks</a>
-        <ul>
-            <li><a href="./stacks#valid_parentheses">Valid Parentheses</a></li>
-            <li><a href="./stacks#making_valid_parentheses">Remove Minimum parentheses to Make Valid Parentheses</a></li>            
-        </ul>
-    </li>
-    <li>
-        <a href="./recursion">Recursion</a>
-        <ul>
-            <li><a href="./recursion">Fibonacci sequence</a></li>
-        </ul>
-    </li>
-    <li>
-        <a href="./linked_lists">Linked Lists</a>
-        <ul>
-            <li><a href="./linked_lists#reversing_linked_list">Reversing a singly linked list</a></li>
-            <li><a href="./linked_lists#flattening_multilevel">Flattening a multilevel doubly linked list</a></li>
-            <li><a href="./linked_lists#reversing_level">Reversing a certain interval in a linked list</a></li>
-            <li><a href="./linked_lists#cycle_detection">Cycle Detection</a></li>
-        </ul>
-    </li>
-    <li>
-        <a href="./arrays">Arrays</a>
-        <ul>
-            <li><a href="./arrays#tenMinutesWalk">Take a Ten Minutes Walk</a></li>
-        </ul>
-    </li>
-</ul>
+This repository contains solution and description of some of the mostly asked questions.
+
+- [stack](./stacks/README.md)
+
+  - [Valid Parentheses](./stacks/README.md#)
+  - [Remove Minimum parentheses to Make Valid Parentheses](./stacks/README.md#making_valid_parentheses)
+
+- [Recursion](./recursion/README.md)
+
+  - [Fibonacci sequence](./recursion)
+
+- [Linked Lists](./linked_lists/README.md)
+  - [Reversing a singly linked list](./linked_lists#reversing_linked_list)
+  - [Flattening a multilevel doubly linked list](./linked_lists/README.md#flattening_multilevel)
+  - [Reversing a certain interval in a linked list](./linked_lists/README.md#reversing_level)
+  - [Detection](./linked_lists/README.md#cycle_detection)
+- [Arrays](./arrays)
+
+  - [Take a Ten Minutes Walk](./arrays/README.md#tenMinutesWalk)
