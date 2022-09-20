@@ -1,6 +1,6 @@
 <h2>linked lists</h2>
 
-<h3>1. Reversing a singly linked list </h3>
+<h3 id="reversing_linked_list">1. Reversing a singly linked list </h3>
 
 <div><p>Given the <code>head</code> of a singly linked list, reverse the list, and return <em>the reversed list</em>.</p>
 
@@ -19,7 +19,7 @@
 <br>
 <div> The implementation is <a href="./reverse_singly_list.js" target="_blank" >here</a></div>
 
-<h3>2. Reversing a certain interval in a linked list</h3>
+<h3 id="reversing_level">2. Reversing a certain interval in a linked list</h3>
 
 <div><p>Given the <code>head</code> of a singly linked list and two integers <code>left</code> and <code>right</code> where <code>left &lt;= right</code>, reverse the nodes of the list from position <code>left</code> to position <code>right</code>, and return <em>the reversed list</em>.</p>
 
@@ -32,8 +32,7 @@
 
 <div><p> The implementation is <a href="./mn_reversal.js" target="_blank">here</a></p></div>
 
-
-<h3>3. Flattening a multilevel doubly linked list</h3>
+<h3 id="flattening_multilevel">3. Flattening a multilevel doubly linked list</h3>
 <div class="content__u3I1 question-content__JfgR"><div><p>You are given a doubly linked list, which contains nodes that have a next pointer, a previous pointer, and an additional <strong>child pointer</strong>. This child pointer may or may not point to a separate doubly linked list, also containing these special nodes. These child lists may have one or more children of their own, and so on, to produce a <strong>multilevel data structure</strong> as shown in the example below.</p>
 
 <p>Given the <code>head</code> of the first level of the list, <strong>flatten</strong> the list so that all the nodes appear in a single-level, doubly linked list. Let <code>curr</code> be a node with a child list. The nodes in the child list should appear <strong>after</strong> <code>curr</code> and <strong>before</strong> <code>curr.next</code> in the flattened list.</p>
@@ -58,7 +57,7 @@ After flattening the multilevel linked list it becomes:
 
 <div> The implementation is <a href="./flatten_doubly_list.js" target="_blank" >here</a></div>
 
-<h3>4. Cycle Detection</h3>
+<h3 id="cycle_detection">4. Cycle Detection</h3>
 
 <div><p>Given the <code>head</code> of a linked list, return <em>the node where the cycle begins. If there is no cycle, return </em><code>null</code>.</p>
 

@@ -1,4 +1,4 @@
-module.exports = (adjList) => {
+module.exports = (graph) => {
    const queue = [0];
    const values = [];
    const seen = {};
@@ -6,7 +6,7 @@ module.exports = (adjList) => {
      const value = queue.shift();
      values.push(value);
      seen[value] = true;
-     const conns = adjList[value];
+     const conns = graph[value];
      for(let i = 0; i < conns.length; i++) {
        const conn = conns[i];
        if (!seen[conn]) {

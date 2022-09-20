@@ -1,7 +1,7 @@
 <h1>Stacks</h1>
 <p>This directory contains some interview questions witn solutions that involve use of stack.</p>
 <div>
-<h3>1.Valid Parentheses</h3>
+<h3 id="valid_parentheses">1.Valid Parentheses</h3>
 <div><p>Given a string <code>s</code> containing just the characters <code>'('</code>, <code>')'</code>, <code>'{'</code>, <code>'}'</code>, <code>'['</code> and <code>']'</code>, determine if the input string is valid.</p>
 
 <p>An input string is valid if:</p>
@@ -32,7 +32,7 @@
 <p>The implementation are <a href="./validParentheses.js">here</a></p>
 </div>
 <div>
-  <h3>2. Minimum Remove to Make Valid Parentheses</h3>
+  <h3 id="making_valid_parentheses">2. Remove Minimum parentheses to Make Valid Parentheses</h3>
   <div><p>Given a string <font face="monospace">s</font> of <code>'('</code> , <code>')'</code> and lowercase English characters.</p>
 
 <p>Your task is to remove the minimum number of parentheses ( <code>'('</code> or <code>')'</code>, in any positions ) so that the resulting <em>parentheses string</em> is valid and return <strong>any</strong> valid string.</p>
