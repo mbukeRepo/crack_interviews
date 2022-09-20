@@ -25,7 +25,7 @@
   <strong>Input:</strong> ['n','n','n','s','n','s','n','s','n','s']
   <strong>Output:</strong> false
 </pre>
-    <div> The implementation is <a href="./tenMinutesWalk.js" target="_blank" >here</a></div>
+<div> The implementation is <a href="./tenMinutesWalk.js" target="_blank" >here</a></div>
 </div>
 <div>
   <h3 id="spiralMatrix">Spiral Matrix</h3>
@@ -44,4 +44,5 @@
 <strong>Output:</strong> [1,2,3,4,8,12,11,10,9,5,6,7]
 </pre>
 </div>
+<div> The implementation is <a href="./spiralTraversal.js" target="_blank" >here</a></div>
 </div>
