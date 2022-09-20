@@ -19,4 +19,4 @@ This repository contains solution and description of some of the mostly asked qu
 - [Arrays](./arrays)
 
   - [Take a Ten Minutes Walk](./arrays/README.md#tenMinutesWalk)
-  - [Spiral matrix](./arrays/README.md#spiralTraversal)
+  - [Spiral matrix](./arrays/README.md#spiralMatrix)
