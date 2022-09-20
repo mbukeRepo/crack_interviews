@@ -1,3 +1,9 @@
+/**
+   n: number of rows, m: number of columns
+   time complexity: O(n * m)
+   space complexity: O(n * m)
+*/
+
 const spiral = (array) => {
   let left = 0, right = array[0].length , top = 0, bottom = array.length;
   const res = [];
@@ -10,6 +16,7 @@ const spiral = (array) => {
     // working with left column
     for(let i = top; i < bottom; i++)
       res.push(array[i][right - 1])
+
     right--;
 
     if(!((left < right) && (top < bottom)))
