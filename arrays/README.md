@@ -28,7 +28,7 @@
 <div> The implementation is <a href="./tenMinutesWalk.js" target="_blank" >here</a></div>
 </div>
 <div>
-  <h3 id="spiralMatrix">Spiral Matrix</h3>
+  <h3 id="spiralMatrix">2. Spiral Matrix</h3>
   <div><p>Given an <code>m x n</code> <code>matrix</code>, return <em>all elements of the</em> <code>matrix</code> <em>in spiral order</em>.</p>
 
 <p>&nbsp;</p>
